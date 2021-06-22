@@ -10,7 +10,7 @@
 ## Description 
 The objective of this project is to be able to control servo motors by hard code or with the help of potentiometers. The hard code empowers the user to control 5 servo motors by slight changes to the uploaded code, if needed. On the other hand, potentiometers might be more convenient to other users. For this reason, 5 potentiometers were connected to control 5 servo motors separately and the Arduino is coded to do such a job. 
 
-notice: 
+### notice: 
 - All rotation angles were coded to be from 0 to 90 degrees.
 - Tinkercad was used to implement the code on the hardware.
 
